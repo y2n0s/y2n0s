@@ -1,9 +1,9 @@
 <!-- صورة رأسية -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/y2n0s/y2n0s/main/banner.png" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Younes!;"  alt="Welcome Banner" />
 </p>
 
-<h1 align="center">مرحبًا! | Hello there!</h1>
+<h1 align="center"></h1>
 
 <p align="center">مطور ومصمم برمجيات - عاشق لـ .NET وراسم للكود بالقهوة</p>
 
